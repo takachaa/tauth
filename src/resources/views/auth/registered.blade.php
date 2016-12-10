@@ -9,7 +9,7 @@
                     <div class="panel-body">
                         <p>Thank you registering our service.</p>
                         <p>Actually Your account not activated yet.</p>
-                        <p>We sent you email to {{$pre_user->email}}</p>
+                        <p>We sent you email to activate your account.</p>
                         <p>Please check email and Activate your account.</p>
                     </div>
                 </div>
