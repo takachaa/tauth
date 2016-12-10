@@ -1,0 +1,12 @@
+{
+    "name": "takachaa/tauth",
+    "description": "tauth provides Interim registration and activation while utilizing original auth system.",
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "takachaa",
+            "email": "takachaa8@gmail.com"
+        }
+    ],
+    "require": {}
+}}
