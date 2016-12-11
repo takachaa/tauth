@@ -1,7 +1,7 @@
 # tauth
 
 ## Introduction
-Beforehand you need to make sure possible to send email from email and connect Databases of your Application.
+Beforehand you need to make sure possible to send email from application and connect database of your Application.
 tauth provides Interim registration and activation while utilizing original auth system such as LoginController and more.
 That's why this package is required **laravel 5.3**.
 This package include some view files prevented from auth scaffold, So you don't need to use auth scaffold.
