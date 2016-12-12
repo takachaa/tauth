@@ -8,6 +8,22 @@ That's why this package is required **laravel 5.3**.
 This package include some view files prevented from auth scaffold, So you don't need to use auth scaffold.
 Now you can image that this package is based on auth scaffold.
 
+## Features
+
+This Package has following features.
+
+	•	Registration
+	•	Activation account (send activation token by email)
+	•	Login  (from scaffold)
+    •	Logout  (from scaffold)
+	•	Password Reset (from scafold)
+
+## Requirements
+
+laravel 5.3
+NOTICE: It does not work lower version.
+
+
 ## Installation
 
 Require this package using Composer.
@@ -62,6 +78,13 @@ $ php artisan vendor:publish
 5.To run all of migrations, execute the migrate Artisan command.
 ```
 php artisan migrate
+```
+
+and then you can crete tables what you need.
+```
+users_table
+password_resets
+pre_users_table
 ```
 
 ## Usage
