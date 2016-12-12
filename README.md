@@ -75,7 +75,7 @@ $ php artisan vendor:publish
 
 5.To run all of migrations, execute the migrate Artisan command.
 ```
-php artisan migrate
+$ php artisan migrate
 ```
 
 and then you can crete tables what you need.
