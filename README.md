@@ -16,13 +16,11 @@ This Package has following features.
 	•	Activation account (send activation token by email)
 	•	Login  (from scaffold)
     •	Logout  (from scaffold)
-	•	Password Reset (from scafold)
+	•	Password Reset (from scaffold)
 
 ## Requirements
 
-laravel 5.3
-NOTICE: It does not work lower version.
-
+Laravel 5.3
 
 ## Installation
 
