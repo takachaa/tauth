@@ -80,9 +80,9 @@ php artisan migrate
 
 and then you can crete tables what you need.
 ```
-users_table
+users
 password_resets
-pre_users_table
+pre_users
 ```
 
 ## Usage
